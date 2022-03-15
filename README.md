@@ -1,6 +1,6 @@
 # 🖖 Expanding Cards Javasript exercise
 
-### 🖖 Expanding Cardss Javasript exercise
+### 🖖 Expanding Cards Javasript exercise
 
 - Expanding Cards exercise with Javasript, HTML, CSS.
 
